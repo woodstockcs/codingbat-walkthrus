@@ -2,7 +2,7 @@
 
 ***REMEMBER to log in before solving a problem!***
 
-![log in](https://user-images.githubusercontent.com/7727226/80993843-cb025900-8e09-11ea-9f34-b8d1a8f25df0.png)
+<img src="https://user-images.githubusercontent.com/7727226/80993843-cb025900-8e09-11ea-9f34-b8d1a8f25df0.png" alt="log in button" width="300"/>
 
 ### Videos
 - [monkey_trouble](http://youtu.be/vsXJeu6nnI0) (6 min)
