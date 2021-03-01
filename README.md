@@ -28,6 +28,7 @@
 
 #### List-2
 ##### sum13
+- [MM](https://flipgrid.com/s/HieJD4ysvzt3JZjW) <-- also has a good visual explanation of the problem with removing items from lists!
 - DS coming soon
 - 
 ##### count_evens
