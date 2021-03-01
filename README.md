@@ -18,3 +18,14 @@
 - CB: [minCat](https://21burrce.hippovideo.io/video/play/CGH-gQIVDLozLgGh2m0ATpxi3X8eJuUd-U2prsVaI68?utm_source=hv-campaigns&hreferer=private&_=1603838572761)
 - NM: [makeOutWord](https://drive.google.com/file/d/1vjRMD_-0UVPTMURO2rR4HebqXXUX30Pz/view)
 - WN: [withoutEnd](https://www.youtube.com/watch?v=UbQue8qvk1c&feature=youtu.be)
+
+### Python
+#### List-1
+##### same_first_last
+- [TB](https://flipgrid.com/s/zh-MixQiy6sfQeqm)
+##### reverse3
+- [TB](https://flipgrid.com/s/1s-gbex-9aahJdFe)
+
+#### List-2
+##### sum13
+- DS coming soon
