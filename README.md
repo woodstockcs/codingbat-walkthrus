@@ -21,15 +21,13 @@
 
 ### Python
 #### List-1
-##### same_first_last
-- [TB](https://flipgrid.com/s/zh-MixQiy6sfQeqm)
-##### common_end
-- [ED](https://flipgrid.com/s/A_KTFa9tnvMD2vc4) <-- helpful visuals for each part of the problem!
+- sum3: [EJ](https://flipgrid.com/s/v855EeG5LYsjkwsu) <-- demos a common mistake and recovery!
+- same_first_last: [TB](https://flipgrid.com/s/zh-MixQiy6sfQeqm) [EJ](https://flipgrid.com/s/kgqYhhn8voUCXVso) <-- good use of test results to motivate additional coding!
+- common_end: [ED](https://flipgrid.com/s/A_KTFa9tnvMD2vc4) <-- helpful visuals for each part of the problem! [KG](https://flipgrid.com/s/wJVVgU15uZa3sSPp) <-- another approach to getting the "last element of a list"!
 
 
 #### List-2
-##### sum13
-- [MM](https://flipgrid.com/s/HieJD4ysvzt3JZjW) <-- also has a good visual explanation of the problem with removing items from lists!
+- sum13: [MM](https://flipgrid.com/s/HieJD4ysvzt3JZjW) <-- also has a good visual explanation of the problem with removing items from lists!
 - DS coming soon
 - 
 ##### count_evens
