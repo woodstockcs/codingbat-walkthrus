@@ -23,8 +23,9 @@
 #### List-1
 ##### same_first_last
 - [TB](https://flipgrid.com/s/zh-MixQiy6sfQeqm)
-##### reverse3
-- [TB](https://flipgrid.com/s/1s-gbex-9aahJdFe)
+##### common_end
+- [ED](https://flipgrid.com/s/A_KTFa9tnvMD2vc4) <-- helpful visuals for each part of the problem!
+
 
 #### List-2
 ##### sum13
