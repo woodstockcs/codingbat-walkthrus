@@ -21,14 +21,12 @@
 
 ### Python
 #### List-1
+- first_last6: [RS](https://flipgrid.com/s/sYro8LQzaDTQ6_ti) <-- good close-up views of the screen and a great window into the thought process!
 - sum3: [EJ](https://flipgrid.com/s/v855EeG5LYsjkwsu) <-- demos a common mistake and recovery!
-- same_first_last: [TB](https://flipgrid.com/s/zh-MixQiy6sfQeqm) [EJ](https://flipgrid.com/s/kgqYhhn8voUCXVso) <-- good use of test results to motivate additional coding!
+- same_first_last: [TB](https://flipgrid.com/s/zh-MixQiy6sfQeqm) <-- good construction of nested if/else! [EJ](https://flipgrid.com/s/kgqYhhn8voUCXVso) <-- good use of test results to motivate additional coding!
 - common_end: [ED](https://flipgrid.com/s/A_KTFa9tnvMD2vc4) <-- helpful visuals for each part of the problem! [KG](https://flipgrid.com/s/wJVVgU15uZa3sSPp) <-- another approach to getting the "last element of a list"!
 
 
 #### List-2
-- sum13: [MM](https://flipgrid.com/s/HieJD4ysvzt3JZjW) <-- also has a good visual explanation of the problem with removing items from lists!
-- DS coming soon
-- 
-##### count_evens
-- [IH](https://flipgrid.com/s/yDuKyB9K4ugpmAc9)
+- sum13: [MM](https://flipgrid.com/s/HieJD4ysvzt3JZjW) <-- great visual explanation of removing items from lists!
+- count_evens: [SL](https://flipgrid.com/s/BHQ1hBksEJ4-smin) <-- good step by step and error recovery! [IH](https://flipgrid.com/s/yDuKyB9K4ugpmAc9) [LM]()
